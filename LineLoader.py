@@ -27,10 +27,10 @@ from mysql.connector import Error
 import datetime
 
 pd.set_option('display.max_columns', 50)
-#serverip = "192.168.60.15"
-#user = "valcom"
-#passwd = "&&VALcom6969"
-#database = "LineLoaderDB"
+#serverip = ""
+#user = ""
+#passwd = ""
+#database = ""
 serverip = ""
 user = ""
 passwd = ""
