@@ -31,10 +31,10 @@ pd.set_option('display.max_columns', 50)
 #user = "valcom"
 #passwd = "&&VALcom6969"
 #database = "LineLoaderDB"
-serverip = "192.168.88.237"
-user = "root"
-passwd = "root"
-database = "LineLoaderDB"
+serverip = ""
+user = ""
+passwd = ""
+database = ""
 connect_timeout = 1
 
 sizex = 1120
